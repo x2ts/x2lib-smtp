@@ -1,0 +1,21 @@
+{
+  "name": "x2ts/x2lib-smtp",
+  "description": "PHPMailer wrapper for x2ts",
+  "type": "library",
+  "license": "LGPL-2.1",
+  "authors": [
+    {
+      "name": "TingSong-Syu",
+      "email": "rek@rek.me"
+    }
+  ],
+  "require": {
+    "x2ts/x2ts": "^2.0",
+    "phpmailer/phpmailer": "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "x2lib\\smtp\\": "src"
+    }
+  }
+}
