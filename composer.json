@@ -11,7 +11,7 @@
   ],
   "require": {
     "x2ts/x2ts": "^2.0",
-    "phpmailer/phpmailer": "^5.2"
+    "phpmailer/phpmailer": "^5.2.27"
   },
   "autoload": {
     "psr-4": {
